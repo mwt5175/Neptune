@@ -1,4 +1,7 @@
 # Neptune Software Suite
+## Introduction
+This is a long-term research project that I started a long time ago. It began as an experiment for creating a boot loader in Visual Studio and has since been expanded. Please run at your own risk.
+
 ## nboot
 The Neptune Boot Loader for the Neptune operating system. It is primarily written in C and some assembly. The core application nboot and related libraries runs in 32 bit protected mode. The system includes drivers to support UEFI and Legacy BIOS firmware.
 ### Legacy BIOS
