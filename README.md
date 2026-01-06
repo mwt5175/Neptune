@@ -1,6 +1,6 @@
 # Neptune Software Suite
 ## Introduction
-The Neptune Software Suite is a research project I started along time ago. This is still hosted on BitBucket, moving to GitHub so all projects are in one location. This includes NCC1 which is a rewrite and most up-to-date codebase of NCC. NCC was part of the Neptune OS codebase however has since been moved to its own repository due to its complexity. The Neptune OS, NCC, and related SDK's and other tools are a Work In Progress (WIP), run at your own risk.
+The Neptune Software Suite is a research project I started along time ago. This is still hosted on BitBucket, moving to GitHub so all projects are in one location. The Neptune OS, NCC, and related SDK's and other tools are a Work In Progress (WIP), run at your own risk.
 
 ## nboot
 The Neptune Boot Loader for the Neptune operating system. It is primarily written in C and some assembly. The core application nboot and related libraries runs in 32 bit protected mode. The system includes drivers to support UEFI and Legacy BIOS firmware.
